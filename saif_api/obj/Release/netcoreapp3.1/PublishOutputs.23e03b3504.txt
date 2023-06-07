@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\saif_api.exe
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\saif_api.dll
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\saif_api.deps.json
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\saif_api.runtimeconfig.json
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\saif_api.pdb
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\saif api\saif_api\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
